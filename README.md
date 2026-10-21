@@ -224,15 +224,10 @@ Through this project, I learned:
 
 # 👨‍💻 Author
 
-👤 Name: Uzaam Shaad K
-
-📱 Contact: 8248878884
-
-📧 Email: uzaamshaad6@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/uzaamshaad
-
-🌍 Location: Banglore, India
+- **Name:** Uzaam Shaad K
+- **GitHub:** [uzaam07](https://github.com/uzaam07)
+- **Portfolio:** [uzaam07.github.io](https://uzaam07.github.io/Portfolio/)
+- **LinkedIn:** [linkedin.com/in/uzaamshaad](https://linkedin.com/in/uzaamshaad)
 
 ---
 
